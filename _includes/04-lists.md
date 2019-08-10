@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+*** Lovely places to eat in Hamburg
+* Max  & Co
+* Erika's Eck
+* Treffpunkt Imbiss Bock
